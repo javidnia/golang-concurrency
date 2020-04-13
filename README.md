@@ -1,5 +1,6 @@
 # golang-concurrency
-[Youtube Video](https://www.youtube.com/watch?v=YEKjSzIwAdA&t=1545s)
+- [Youtube Video](https://www.youtube.com/watch?v=YEKjSzIwAdA&t=1545s)
+- [Slides](https://www.dropbox.com/s/wyxcw4gh2n5g1qw/concurrencypatterns.pdf?dl=0)
 
 ## Select statement
 ![](streams-of-data.png)
