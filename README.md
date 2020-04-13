@@ -2,6 +2,9 @@
 - [Youtube Video](https://www.youtube.com/watch?v=YEKjSzIwAdA&t=1545s)
 - [Slides](https://www.dropbox.com/s/wyxcw4gh2n5g1qw/concurrencypatterns.pdf?dl=0)
 
+Concurrency model in use: Communicating Sequential Processes (CSP)
+it means you just write your process as a sequential code, i.e. forget about parallelism while coding. You don’t have shared state! Instead of sharing you communicate the data with other processes (over channels)
+
 ## Select statement
 ![](streams-of-data.png)
 - [Fanout](concurrency/fanout.go)
